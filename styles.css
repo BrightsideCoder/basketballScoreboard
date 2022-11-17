@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid white;
+    background: #1B244A;
+    width: 575px;
+    height: 385px;
+    margin: 0 auto;
+}
+    
+.count-screen {
+    text-align: center;
+    width: 155px;
+    height: 120px;
+    background: #080001;
+    color: red;
+}
+
+.points-text {
+    font-size: 100px;
+}
